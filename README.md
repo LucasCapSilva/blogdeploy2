@@ -1,2 +1,0 @@
-# blogdeploy2
-deploy
